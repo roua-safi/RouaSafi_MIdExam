@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RouaSafi_MidExam</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="back_to_main">Back</string>
+    <string name="counter">1 / 6</string>
+    <string name="artwork_title">Artwork Title</string>
+    <string name="artist_name_year">Artist Name (Year)</string>
+    <string name="art_title">art_title</string>
+</resources>
